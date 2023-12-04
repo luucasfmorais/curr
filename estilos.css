@@ -1,0 +1,46 @@
+body {
+
+    color: rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    margin: 30px;
+}
+
+img {
+
+    border: 5px solid rgb(0, 0, 0);
+    width: 200px;
+    height: auto;
+}
+
+h1 {
+    background-color: rgba(255, 255, 255, 0.301);
+    background-image: url(../curr/background/realistic-polygonal-background_23-2148897844.avif);
+    padding: 10px;
+
+}
+
+p {
+
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 5px;
+}
+
+
+h2 {
+    background-image: url(../curr/background/realistic-polygonal-background_23-2148897844.avif);
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.301);
+    font-size: 25px;
+    padding: 8px;
+}
+
+figure {
+
+    background-color: #ffffff;
+    border: 1px solid #777;
+    text-align: left;
+    padding: 35px;
+    margin: 10px;
+}
